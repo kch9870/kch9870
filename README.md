@@ -11,4 +11,4 @@
 - Email: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gimchaewon9870@gmail.com)](mailto:gimchaewon9870@gmail.com)
 - Blog: [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Blogger&logoColor=white&link=https://ch-1-page.tistory.com/)](https://ch-1-page.tistory.com/)
 - Sns: [![Sns Badge](http://img.shields.io/badge/Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ch_1_98/)](https://www.instagram.com/ch_1_98/)
-
+[![ChaewonKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kch9870&&show_icons=true&theme=dracula)]
