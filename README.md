@@ -1,6 +1,6 @@
 ### 👋 Hi i'm ChaewonKim
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ChaewonKim&fontSize=90)
-- 🌱   Android front-end-developer
+- 🌱   Android developer
 - 💻   Computer Science
 - 🏠🇰🇷  I'm living in South Korea
 
